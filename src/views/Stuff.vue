@@ -1,5 +1,8 @@
 <template>
   <main class="container">
-    <h1>Hello, home!</h1>
+    <ul>
+      <li>Some</li>
+      <li>Stuff</li>
+    </ul>
   </main>
 </template>
